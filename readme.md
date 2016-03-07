@@ -1,4 +1,7 @@
 # JabJot
+
+Copy for dgleba
+
 Bookmarking, note taking and todo-ing in Python/Flask/MongoDB
 
 See it in action: [http://jabjot.com/](http://jabjot.com/)
